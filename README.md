@@ -35,19 +35,21 @@ Below are screenshots of the application running on an emulator:
 
 ### App Views
 
-![Screenshot 1](screenshots/screenshot1.png)
+<p float="left">
+  <img src="screenshots/screenshot1.png" width="200"/>
+  <img src="screenshots/screenshot2.png" width="200"/>
+  <img src="screenshots/screenshot3.png" width="200"/>
+</p>
 
-![Screenshot 2](screenshots/screenshot2.png)
+<p float="left">
+  <img src="screenshots/screenshot4.png" width="200"/>
+  <img src="screenshots/screenshot5.png" width="200"/>
+  <img src="screenshots/screenshot6.png" width="200"/>
+</p>
 
-![Screenshot 3](screenshots/screenshot3.png)
-
-![Screenshot 4](screenshots/screenshot4.png)
-
-![Screenshot 5](screenshots/screenshot5.png)
-
-![Screenshot 6](screenshots/screenshot6.png)
-
-![Screenshot 7](screenshots/screenshot7.png)
+<p float="left">
+  <img src="screenshots/screenshot7.png" width="200"/>
+</p>
 
 ---
 
