@@ -1,38 +1,59 @@
-````markdown
 # Flutter Todo App 
 
-A modern and responsive Todo application built with Flutter. This project demonstrates local data persistence using Hive and showcases clean UI design with reusable components and interactive task management.
+A modern and responsive Todo application built with Flutter. This project demonstrates local data persistence using Hive and showcases a clean UI with a structured Flutter codebase.
 
-## Features
+---
 
-- Modern and intuitive user interface
-- Persistent local storage using Hive
-- Responsive layout
-- Interactive task management with Slidable widgets
-- Reusable and organized code structure
-- Lightweight and efficient architecture
+## 📌 Overview
 
-## Tech Stack
+This app is a simple Todo application built for learning Flutter development and local storage integration using Hive. It focuses on UI clarity, responsiveness, and persistent data handling.
+
+---
+
+## ✨ Features
+
+- Clean and minimal UI
+- Local storage using Hive database
+- Fast and lightweight performance
+- Responsive layout for different screen sizes
+- Smooth and simple user experience
+
+---
+
+## 🛠 Tech Stack
 
 - Flutter
 - Dart
-- Hive
+- Hive Database
 - flutter_slidable
 
-## Screenshots
+---
 
-Below are screenshots showcasing the application's interface and functionality.
+## 📸 Screenshots
 
-| | |
-|---|---|
-| ![](screenshots/screenshot1.png) | ![](screenshots/screenshot2.png) |
-| ![](screenshots/screenshot3.png) | ![](screenshots/screenshot4.png) |
-| ![](screenshots/screenshot5.png) | ![](screenshots/screenshot6.png) |
-| ![](screenshots/screenshot7.png) | |
+Below are screenshots of the application running on an emulator:
 
-## Project Structure
+### App Views
 
-```text
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+![Screenshot 3](screenshots/screenshot3.png)
+
+![Screenshot 4](screenshots/screenshot4.png)
+
+![Screenshot 5](screenshots/screenshot5.png)
+
+![Screenshot 6](screenshots/screenshot6.png)
+
+![Screenshot 7](screenshots/screenshot7.png)
+
+---
+
+## 📁 Project Structure
+
+```
 lib/
 ├── data/
 ├── pages/
@@ -41,7 +62,9 @@ lib/
 └── main.dart
 ```
 
-## Getting Started
+---
+
+## 🚀 Getting Started
 
 ### Clone the repository
 
@@ -49,7 +72,7 @@ lib/
 git clone https://github.com/MuhammadFurqanoffical/flutter-todo-app.git
 ```
 
-### Navigate to the project directory
+### Move into project directory
 
 ```bash
 cd flutter-todo-app
@@ -61,13 +84,15 @@ cd flutter-todo-app
 flutter pub get
 ```
 
-### Run the application
+### Run the app
 
 ```bash
 flutter run
 ```
 
-## Dependencies
+---
+
+## 📦 Dependencies
 
 ```yaml
 dependencies:
@@ -78,22 +103,10 @@ dependencies:
   flutter_slidable:
 ```
 
-## About
-
-This project was developed to strengthen Flutter development skills and demonstrate:
-
-- Local storage using Hive
-- State management and dynamic UI updates
-- Reusable widgets and organized code structure
-- Responsive and user-friendly interfaces
-
-## Author
-
-**Muhammad Furqan**
-
-- GitHub: [@MuhammadFurqanoffical](https://github.com/MuhammadFurqanoffical)
-
 ---
 
-⭐ If you found this project useful, consider giving it a star.
-````
+## 👨‍💻 Author
+
+Muhammad Furqan
+
+GitHub: https://github.com/MuhammadFurqanoffical
